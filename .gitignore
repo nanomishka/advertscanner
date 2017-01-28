@@ -1,0 +1,12 @@
+.idea/
+output/*
+*.pyc
+
+# config
+config/*
+!config/default*
+
+!__init__.py
+
+
+

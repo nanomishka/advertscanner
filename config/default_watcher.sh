@@ -1,0 +1,1 @@
+python_path=/usr/local/bin/python

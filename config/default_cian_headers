@@ -1,0 +1,11 @@
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip, deflate, sdch, br
+Accept-Language:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4,de;q=0.2,tr;q=0.2
+Cache-Control:no-cache
+Connection:keep-alive
+Cookie:_CIAN_GK=56d11a08-e533-11e6-bd97-6ebe99443f0c; anonymous_id=56d0e056-e533-11e6-bd97-6ebe99443f0c; _gat=1; _dc_gtm_UA-30374201-2=1; _gat_UA-30374201-2=1; _ym_uid=1485591938563558580; _ym_isad=2; _ga=GA1.2.896650260.1485591936; _ga=GA1.3.896650260.1485591936; rrrbt=; rrpvid=897224717197654; crtg_rta=; _ym_visorc_34229100=w; rcuid=588c5588a23a4a1d3cb4fbfd; rrpusid=588c5588a23a4a1d3cb4fbfd; rrlpuid=; _ym_visorc_67132=w
+Host:map.cian.ru
+Pragma:no-cache
+Referer:https://map.cian.ru/?deal_type=2&flats=yes&currency=2&room1=1&room2=1&center=55.722991,37.619154&zoom=17&engine_version=2
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+X-Requested-With:XMLHttpRequest
