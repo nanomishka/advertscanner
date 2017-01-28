@@ -12,7 +12,7 @@ def load_config(config):
     try:
         module = importlib.import_module(module_path)
     except ImportError:
-        module = importlib.import_module('config/default_{}'.format(config))
+        module = importlib.import_module('config.default_{}'.format(config))
     return module
 
 
