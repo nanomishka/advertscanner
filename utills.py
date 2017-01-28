@@ -65,8 +65,8 @@ class EmailSender(object):
             status = True
 
         except socket.gaierror:
-            print u'Неверные параметры для smtp'
+            print u'Invalid params for smtp'
         except smtplib.SMTPAuthenticationError:
-            print u'Неверный логин/пароль для почты'
+            print u'Invalid login/password for smtp'
 
         return status
